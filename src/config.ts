@@ -5,7 +5,7 @@ website: "https://ekko.dev", // placeholder domain
 author: "Ekko",
 profile: "https://github.com/ekko",
 desc: "Software engineer passionate about building scalable applications and solving complex problems.",
-title: "Ekko | Software Engineer",
+title: "Ekko | Developer",
 ogImage: "astropaper-og.jpg",
 lightAndDarkMode: true,
 postPerIndex: 4,
@@ -29,19 +29,19 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialObjects = [
 {
     name: "Github",
-    href: "https://github.com/ekko",
+    href: "https://github.com/JamesrPrince",
     linkTitle: ` ${SITE.title} on Github`,
     active: true,
 },
 {
     name: "LinkedIn",
-    href: "https://linkedin.com/in/ekko",
+    href: "https://www.linkedin.com/in/princemchisenga/",
     linkTitle: `${SITE.title} on LinkedIn`,
     active: true,
 },
 {
     name: "Mail",
-    href: "mailto:ekko@ekko.dev",
+    href: "mailto:jameslira36@yahoo.com",
     linkTitle: `Send an email to ${SITE.title}`,
     active: true,
 },
