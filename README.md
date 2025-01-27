@@ -1,4 +1,4 @@
-# AstroPaper 📄
+# Ekko | Developer 👨🏾‍💻
 
 ![AstroPaper](public/blog.png)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/community/file/1356898632249991861)
